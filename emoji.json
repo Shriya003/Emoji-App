@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Smile",
+        "symbol": "😊"
+    },
+    {
+        "name": "Laughter",
+        "symbol": "😂"
+    },
+    {
+        "name": "Sad",
+        "symbol": "😔"
+    },
+    {
+        "name": "cry",
+        "symbol": "😭"
+    },
+    {
+        "name": "Hello",
+        "symbol": "👋"
+    },
+    {
+        "name": "100",
+        "symbol": "💯"
+    },
+    {
+        "name": "Angry",
+        "symbol": "😡"
+    },
+    {
+        "name": "Heart",
+        "symbol": "💖"
+    },
+    {
+        "name": "Amazing",
+        "symbol": "🤩"
+    },
+    {
+        "name": "Sleep",
+        "symbol": "😴"
+    },
+    {
+        "name": "Funny",
+        "symbol": "😜"
+    },
+    {
+        "name": "Confused",
+        "symbol": "🙄"
+    }
+]
