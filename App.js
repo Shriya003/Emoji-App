@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <center>
-        <h1>😂😜Emoji Search😊🤩</h1>
+        <h1>😂😜sudhanshu is great 😊🤩</h1>
         <input type="text" name="search" value={search} onChange={(e) => setSearch(e.target.value)} />
       </center>
       {data.map(emoji => <div>
